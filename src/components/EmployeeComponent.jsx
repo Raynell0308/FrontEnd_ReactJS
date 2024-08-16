@@ -200,4 +200,4 @@ const EmployeeComponent = () => {
   )
 }
 
-export default EmployeeComponent
+export default EmployeeComponent;
